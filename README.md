@@ -6,3 +6,4 @@ Aplicación de estimación de valoración de respuestas para la asignatura AIA (
  * <code>sudo apt-get install python3-lxml</code>
 * Instalar Scipy y Scikit
  * <code>sudo apt-get install build-essential python3-dev python3-setuptools python3-numpy python3-scipy libatlas-dev libatlas3gf-base</code>
+ * <code>sudo pip3 install -U scikit-learn</code>
