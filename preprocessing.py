@@ -1,9 +1,8 @@
 import numpy as np
 import re
-import functions
 
-from xml.etree.ElementTree import ElementTree
 from lxml import etree
+from xml.etree.ElementTree import ElementTree
 
 def preprocessing(filepath, tags, glossary=None):
 	'''
